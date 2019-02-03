@@ -36,11 +36,11 @@ Other concerns regarding slack contributions
 
 # TA Grading:
 
-| Item                 | Max Pts | Pts | Explanation |
-|----------------------|---------|-----|-------------|
-| `team/name.md` files |   60    |     |             |
-| `team/name.md` files |   30    |     |             |
-| `team/name.md` files |   10    |     |             |
-| TOTAL                |  100    |     |             |
+| Item                  | Max Pts | Pts | Explanation |
+|-----------------------|---------|-----|-------------|
+| `team/name.md` files  |   60    |     |             |
+| `team/norms.md` files |   30    |     |             |
+| slack contributions   |   10    |     |             |
+| TOTAL                 |  100    |     |             |
 
 
