@@ -1,4 +1,4 @@
-# Team Feedback on lab02.md for ____TEAM NAME GOES HERE____
+# Team Feedback on lab02 for ____TEAM NAME GOES HERE____
 
 ## Rubric for y/n/? items
 
@@ -14,18 +14,17 @@ Mentors will use a y/n/? rubric to provided feedback on some items.  Here is the
 ## Team Graded items
 
 
-| Item                                                       | Response | 
-|------------------------------------------------------------|----------|
-|  Each team member contributed to a Hello World app (y/n/?) |          |
-|  There is a user story in the in progess column  (y/n/?)   |          |
-|  There is at least one issue under each user story         |          |
-|  Each team member is a assigned to at least one issue      |          |
+| Item                                                          | Response | 
+|---------------------------------------------------------------|----------|
+|  Each team member contributed to a Hello World app (y/n/?)    |          |
+|  There is a user story in the in progess column  (y/n/?)      |          |
+|  There is at least one issue under each user story (y/n/?)    |          |
+|  Each team member is a assigned to at least one issue (y/n/?) |          |
 
 
-Mentor: If n or ?, explain.  Note which team members didn't contribute to a Hello World app.
+Mentor: If n or ?, explain.  For example, note which team members didn't contribute to a Hello World app, etc.
 
 # TA Team Grading
-
 
 | Item                                                       | Grade    | 
 |------------------------------------------------------------|----------|

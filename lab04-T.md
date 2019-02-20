@@ -1,4 +1,4 @@
-# Team Feedback on lab03 for ____TEAM NAME GOES HERE____
+# Team Feedback on lab04 for ____TEAM NAME GOES HERE____
 
 ## Rubric for y/n/? items
 
@@ -13,23 +13,26 @@ Mentors will use a y/n/? rubric to provided feedback on some items.  Here is the
 
 ## Team Graded items
 
+Mentor: Please edit the link below to point to the team's retro artifact repo
+
+* https://github.com/ucsb-cs48-w19/4pm-stock-trading_RETROS
+
 
 | Item                                                        | Response | 
 |-------------------------------------------------------------|----------|
-|  Each team member is assigned to at least one issue (y/n/?) |          |
-|  The team mechanics listed in lab03 were all done (y/n/?)  |           |
+|  All team members participated in retro and survey          |          |
+|  Team recorded retro artifacts as instructed  (y/n/?)       |           |
 
 
-Mentor: If n or ?, explain.  
+Mentor: If n or ?, explain.
 
 # TA Team Grading
 
-
-
 | Item                                                        | Response | 
 |-------------------------------------------------------------|----------|
-|  Each team member is assigned to at least one issue (y/n/?) |   /30    |
-|  The team mechanics listed in lab03 were all done (y/n/?)   |   /30    |
+|  All team members participated in retro and survey          |    /30   |
+|  Team recorded retro artifacts as instructed  (y/n/?)       |    /30   |
+
 
 
 

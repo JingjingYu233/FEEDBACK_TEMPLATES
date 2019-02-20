@@ -1,4 +1,4 @@
-# Individul Feedback on lab02.md for ____NAME GOES HERE____
+# Individul Feedback on lab02 for ____NAME GOES HERE____
 
 ## Rubric for y/n/? items
 
@@ -25,7 +25,7 @@ Mentor: please put in link to the pull request here, and note who the pair partn
 |  Mentor can run and it doesn't crash (y/n/?)             |          |
 |  Code follows reasonably good style (y/n/?)              |          |
 
-Mentor: Comments on N and ? items go here
+Mentor: Comments on n and ? items go here
 
 
 ## Mentor Checklist for other graded items
@@ -36,7 +36,7 @@ Mentor: Comments on N and ? items go here
 |  Assigned to an issue moved from To-Do to In Progress (y/n/?) |          |
 |  Hello World deployed on web, or demoed to Mentor/TA          |          |
 
-(Mentor and TA may put comments here on items above that have ? listed.)
+(Mentor and TA may put comments here on items above that have n or ? listed.)
 
 ## TA Grading
 

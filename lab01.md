@@ -1,4 +1,4 @@
-# Feedback on lab01.md
+# Feedback on lab01
 
 ## Rubric for y/n/? items
 
