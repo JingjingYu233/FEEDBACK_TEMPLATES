@@ -16,13 +16,7 @@ Mentors will use a y/n/? rubric to provided feedback on some items.  Here is the
 Mentor: Please review checklist below, with someone from the team
 watching and recording items on slack that might need to be adjusted.
 
-Are these assessments final?
 
-At your discretion, if you want to give your team additional time to 
-fix any items below and re-review them, you may.   But you are NOT obligated
-to do so.   You may give any deadline between now and midnight before next week's lab,
-provided that you leave yourself enough time to complete the re-review BEFORE
-lab09's lab STARTS (*NOT* during next week's lab).
 
 | Item                                                        | Response | 
 |-------------------------------------------------------------|----------|
