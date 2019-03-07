@@ -15,35 +15,47 @@ Mentors will use a y/n/? rubric to provided feedback on some items.  Here is the
 
 Mentor: You need to look in two places
 
-1. In your OWN team`s `_REVIEW` repo for the reviewee report; for example, if your team is `4pm-turkey-trot`, look in <https://github.com/ucsb-cs48-w19/4pm-turkey-trot_REVIEWS/blob/master/lab05_reviewee.md>
-2. In the `_REVIEW` repo of the partner team (see: [partner team chart](https://ucsb-cs48.github.io/w19/images/team review.png)), for example
+1. In the `_REVIEW` repo of the partner team (see: [partner team chart](https://ucsb-cs48.github.io/w19/images/team review.png)), for example
    since Ray from `4pm-turkey-trot` reviwed `4pm-gold-scheduler`, look in <https://github.com/ucsb-cs48-w19/4pm-gold-scheduler_REVIEWS/blob/master/lab05_reviewer.md> for Ray's review of Gold Scheduler.
+2. In your OWN team`s `_REVIEW` repo for the reviewee report; for example, if your team is `4pm-turkey-trot`, look in <https://github.com/ucsb-cs48-w19/4pm-turkey-trot_REVIEWS/blob/master/lab05_reviewee.md>
 
+
+### Reviewer Report
 
 | Item                                                        | Response | 
 |-------------------------------------------------------------|----------|
-|  Look over the README.md.  Is it in final polished form?    |          |
-|  README instructions for installing. Try them. Do they work?|          |
-|  Product features; do they all work?                        |          |
-|  Look at the code.   Is it straightforward to understand?   |          |
-|  Does it follow reasonably good coding practices?           |          |
-|  Is there at least some automated unit/integration testing? |          |
-|  Is that testing automated via Travis/CI?                   |          |
-
+| There is a reviewer report in partner teams' repo           |          |
+| There is a report of who participated in the review         |          |
+| There is a summary of the features of the product           |          |
+| There is a summary of findings about the Kanban board       |          |
+| There is a summary of feedback on the README.md             |          |
+| Closing per instructions liked/improvement/liked            |          |
 
 Mentor: If n or ?, explain.
+
+### Reviwee Report
+
+| Item                                                                     | Response | 
+|--------------------------------------------------------------------------|----------|
+| There is a reviweee response report in team's own repo                   |          |
+| There is a report of who participated                                    |          |
+| There is a response to reviewer summary of the features of the product   |          |
+| There is a response to reviewer summary of Kanban board                  |          |
+| There is a response to reviewer to summary of feedback on the README.md  |          |
+| Response to reviewer closing (liked/improvement/liked)                   |          |
+
+Mentor: If n or ?, explain.
+
+
 
 # TA Team Grading
 
 | Item                                                        | Response | 
 |-------------------------------------------------------------|----------|
-|  Look over the README.md.  Is it in final polished form?    |     /20  |
-|  README instructions for installing. Try them. Do they work?|     /20  |
-|  Product features; do they all work?                        |     /20  | 
-|  Look at the code.   Is it straightforward to understand?   |     /10  |
-|  Does it follow reasonably good coding practices?           |     /10  |
-|  Is there at least some automated unit/integration testing? |     /10  |
-|  Is that testing automated via Travis/CI?                   |     /10  |
+| Reviewer Report                                             |     /50  |
+| Reviewee Response Report                                    |     /50  |
+
+(TA: Deduct 10 points for each item that is missing completely, deduct between 1 and 9 points for any item that is present, but doesn't meet reasonable expectations.)
 
 TA Comments:
 
